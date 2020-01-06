@@ -1,2 +1,2 @@
 # darkmodeToggle
-JavaScript Dark Mode  toggle
+JavaScript Dark Mode toggle
